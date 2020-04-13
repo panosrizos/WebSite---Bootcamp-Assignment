@@ -1,0 +1,77 @@
+
+body
+{
+    padding:1% 8%;
+}
+
+
+.pageImages
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+}
+.carousel
+{
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+.navbar
+{
+    height: 60px;
+}
+
+.btn
+{
+    margin-top: 20px;
+    
+}
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.form-row
+{
+    margin-bottom: 100px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 80px;
+    margin-bottom: 70px;
+}
+table.list{
+    width:0%;
+}
+td, th {
+    text-align: left;
+    padding: 80px;
+}
+
+
+input[type=text], input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing:border-box;
+}
+a
+{
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+footer
+{
+    margin-top: 80px;
+}
+
+
